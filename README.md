@@ -1,4 +1,4 @@
-# AI-Voice
+# personal AI-Voice
 Final project for the Building AI course
 ## Summary
 If you find yourself in the situation of losing your voice and you need to use a voice computer, it should be possible for you to get your own voice back digitally. Without having to rely on the specifications of individual devices.
